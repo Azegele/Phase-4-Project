@@ -1,3 +1,5 @@
+# E-COMMERCE RECOMMENDER SYSTEM
+
 ## BUSINESS UNDERSTANDING
 
 ![image](https://user-images.githubusercontent.com/110466244/204891623-109c27ca-b614-44c0-a982-d29ad348a9d2.png)
@@ -13,7 +15,7 @@
 
 To provide a recommendation system that will help both existing and new customers. Our main of creating a recommendation system is to categorise the customers based on their purchase quantities and set this as our guide in recommending the products based on the size of a business.
 
-### Specific O bjectives
+### Specific Objectives
 
 1. To particularly provide product recommendations and to look for unique ways to personalize marketing to customer base.
 
@@ -42,8 +44,7 @@ The data has 8 features;
 
 ### Models Implemented
 
-Collaborative
-Filtering
+Collaborative Filtering
 
 We used Cosine Similarity to recommend various
 Products to customers.
