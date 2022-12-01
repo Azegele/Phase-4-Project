@@ -56,33 +56,22 @@ test our data.
 
 ### Evaluation
 
-Accuracy
+
 
 RMSE
 
-MAE
+
 
 ### Findings
 
 Memory based 
-
-We used Cosine Similarity to recommend various Products to customers.
-In our predicition we got an RMSE of 0.0655.
+We used KNN (K-Nearest Neighbours) With Means model has an test RMSE value of 0.244 and cross validation RMSE value of 0.246.
 
 Model based
 
-We used the SVD model to create our model and test our data. Here we got an RMSE of 0.3954
-
+We used the SVD (Singular Value Decomposition) model has a test RMSE score of 0.364 and cross validation (CV) RMSE score of 0.363.
 ### Recommendations
-
-Our Memory_based model and Model_based model is able to recommend products to customersbased on their similarity
-
-Follow up to find out if the increase in online purchases are due to new customers or repeat customers and if so, explore ways to onboard new customers possibly through convenience, efficiency and reviews to improve their trust.
-
-Follow up on third party resellers that have received scam claims and action taken if found guilty.
-
-### Coclusion
-The recommendation system we developed will be very helpful to the customers and e-commerce companies to recommend products based on experience with the products.
+Each client will have a variety of products suggested to them as they are gathered filling out missing entries in the matrix during matrix factorization using SVD.
 
 ### Author and Aknowledgement:
 
