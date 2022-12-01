@@ -75,9 +75,7 @@ We used the SVD model to create our model and test our data. Here we got an RMSE
 
 ### Recommendations
 
-Our Memory_based model and Model_based model is able to recommend products to customersbased on their similarity
-
-Follow up to find out if the increase in online purchases are due to new customers or repeat customers and if so, explore ways to onboard new customers possibly through convenience, efficiency and reviews to improve their trust.
+Our Memory_based model and Model_based model is able to recommend products to customersbased on their similarity Follow up to find out if the increase in online purchases are due to new customers or repeat customers and if so, explore ways to onboard new customers possibly through convenience, efficiency and reviews to improve their trust.
 
 Follow up on third party resellers that have received scam claims and action taken if found guilty.
 
