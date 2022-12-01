@@ -73,14 +73,17 @@ Model based
 
 We used the SVD model to create our model and test our data. Here we got an RMSE of 0.3954
 
+### Coclusion
+
+The recommendation system we developed will be very helpful to the customers and e-commerce companies to recommend products based on experience with the products.
+
 ### Recommendations
 
 Our Memory_based model and Model_based model is able to recommend products to customersbased on their similarity Follow up to find out if the increase in online purchases are due to new customers or repeat customers and if so, explore ways to onboard new customers possibly through convenience, efficiency and reviews to improve their trust.
 
 Follow up on third party resellers that have received scam claims and action taken if found guilty.
 
-### Coclusion
-The recommendation system we developed will be very helpful to the customers and e-commerce companies to recommend products based on experience with the products.
+
 
 ### Author and Aknowledgement:
 
